@@ -1,0 +1,32 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  color: white;
+  justify-content: center;
+  background-color: black;
+  font-family: sans-serif;
+  position: relative;
+  height: 2000px;
+  width: 100vw;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  position: fixed;
+}
+
+h1 {
+  font-size: 24px;
+  padding: 10px 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
